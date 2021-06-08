@@ -46,6 +46,12 @@ body{ display: inline-block; }
     text-decoration: none;
     background: black;
 }
+.dropdown-item{
+  background-color: black;
+}
+.dropdown-item: hover{
+  background-color: #212529;
+}
 
 /* Navigation links */
 .customNav a {
